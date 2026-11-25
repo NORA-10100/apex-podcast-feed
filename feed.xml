@@ -25,15 +25,26 @@
     <link>https://muse.ai/podcasts/feed/1311693172037714/161d09d2-5915-41e3-b9ee-d23f694022dd</link>
   </image>
   <item>
-        <title>APEX最新情報 LCQ8枠の札幌グループ決定！ラダー3開幕＆ゴジラ最終週</title>
-        <description>ユイとレンが解説：ALGS LCQの決着と札幌グループ分け、今日開幕のランク・ラダー3、ゴジライベント最終週のチェックリスト</description>
-        <enclosure url="https://nora-10100.github.io/apex-podcast-feed/episodes/apex-lcq83-aae1a7e3-2026-11-24.mp3" length="1473829" type="audio/mpeg"/>
-        <guid isPermaLink="false">apex-lcq83-aae1a7e3-2026-11-24</guid>
-        <pubDate>Tue, 24 Nov 2026 08:05:00 +0000</pubDate>
-        <itunes:duration>184</itunes:duration>
-        <itunes:author>IT専門学生</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:episodeType>full</itunes:episodeType>
+    <title>APEX最新情報 誤BAN騒動とホットフィックス総まとめ！アキンボ・ウィングマン使いこなし術</title>
+    <description>ユイとレンが解説：チート対策チームの誤BAN騒動と取り消し、シーズン31開幕からのホットフィックス総まとめ、アキンボ・ウィングマンの使いこなしガイド</description>
+    <enclosure url="https://nora-10100.github.io/apex-podcast-feed/episodes/apex-ban-ffdba475-2026-11-25.mp3" length="1644606" type="audio/mpeg"/>
+    <guid isPermaLink="false">apex-ban-ffdba475-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 08:04:59 +0000</pubDate>
+    <itunes:duration>203</itunes:duration>
+    <itunes:author>IT専門学生</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>APEX最新情報 LCQ8枠の札幌グループ決定！ラダー3開幕＆ゴジラ最終週</title>
+    <description>ユイとレンが解説：ALGS LCQの決着と札幌グループ分け、今日開幕のランク・ラダー3、ゴジライベント最終週のチェックリスト</description>
+    <enclosure url="https://nora-10100.github.io/apex-podcast-feed/episodes/apex-lcq83-aae1a7e3-2026-11-24.mp3" length="1473829" type="audio/mpeg"/>
+    <guid isPermaLink="false">apex-lcq83-aae1a7e3-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 08:05:00 +0000</pubDate>
+    <itunes:duration>184</itunes:duration>
+    <itunes:author>IT専門学生</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:episodeType>full</itunes:episodeType>
   </item>
   <item>
     <title>APEX最新情報 LCQ決着！札幌40チーム出そろう＆ランク・スプリット3直前ガイド</title>
